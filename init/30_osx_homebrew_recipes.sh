@@ -33,6 +33,8 @@ recipes=(
   tmux-xpanes
   tree
   wget
+  virtualenv
+  virtualenvwrapper
 )
 
 brew_install_recipes
