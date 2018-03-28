@@ -1,6 +1,6 @@
 # Editing
 
-export EDITOR=vim
+export EDITOR=nano
 
 if [[ ! "$SSH_TTY" ]]; then
   if [[ ! "$TMUX" ]]; then

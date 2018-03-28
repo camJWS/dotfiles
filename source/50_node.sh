@@ -147,3 +147,9 @@ function npm-package() {
     npm install foo --save-dev && npm uninstall foo --save-dev
   fi
 }
+
+
+
+#   Node.js
+#   --------------------------------------------------------------
+    export PATH=$PATH:/usr/local/opt/node/bin
